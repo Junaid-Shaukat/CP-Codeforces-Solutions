@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Programming/CP-Codeforces-Solutions",
-      "program": "d:/Programming/CP-Codeforces-Solutions/build/Debug/outDebug",
+      "cwd": "d:/Programming/CP-Codeforces-Solutions/900",
+      "program": "d:/Programming/CP-Codeforces-Solutions/900/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
