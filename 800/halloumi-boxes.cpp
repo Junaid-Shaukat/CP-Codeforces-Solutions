@@ -32,3 +32,7 @@ int main()
     }
     return 0;
 }
+
+// approach
+// check if the array is sorted or not
+// if sorted and k>1 then it will be YES otherwise NO
